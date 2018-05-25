@@ -2,7 +2,7 @@
 
 > Postdoctoral Researcher at Lawrence Berkeley National Laboratory
 
-> _(+1)-510-604-9934_ | _okavvada@gmail.com_ | _1831 Woolsey str, Berkeley, CA_
+>> (+1)-510-604-9934 | okavvada@gmail.com | 1831 Woolsey str, Berkeley, CA
 
 ## Education
 
