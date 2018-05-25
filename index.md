@@ -7,82 +7,69 @@
 
 ## Education
 
-### University of California, Berkeley UC Berkeley, CA
-
-PH.D. (CIVIL AND ENVIRONMENTAL ENGINEERING) May 2014 - December 2017
+### PH.D. (CIVIL AND ENVIRONMENTAL ENGINEERING) _May 2014 - December 2017_
+University of California, Berkeley UC Berkeley, CA
 - Researcher for the NSF Funded Engineering Research Center ReNUWIt (Reinventing the Nations Urban Water Infrastructure)
 - Diploma Thesis: Spatial Modeling of Decentralized Wastewater Infrastructure: The Case for Water Reuse and Nitrogen Recovery
 
-### University of California, Berkeley UC Berkeley, CA
-
-MASTER OF SCIENCE (CIVIL AND ENVIRONMENTAL ENGINEERING) Aug. 2013 - May 2014
+### MASTER OF SCIENCE (CIVIL AND ENVIRONMENTAL ENGINEERING) _Aug. 2013 - May 2014_
+University of California, Berkeley UC Berkeley, CA
 - ”Energy, Civil Infrastructure and Climate” Program
 
-### University of California, Berkeley UC Berkeley, CA
-
-CERTIFICATE IN ENGINEERING AND BUSINESS FOR SUSTAINABILITY Aug. 2013 - May 2014
+### CERTIFICATE IN ENGINEERING AND BUSINESS FOR SUSTAINABILITY _Aug. 2013 - May 2014_
+University of California, Berkeley UC Berkeley, CA
 - Multidisciplinary certificate in the intersection of engineering, business, and environmental management
 
-### National Technical University of Athens Athens, GREECE
-
-ENVIRONMENT AND DEVELOPMENT POSTGRADUATE PROGRAM Sep. 2010 - Dec. 2012
+### ENVIRONMENT AND DEVELOPMENT POSTGRADUATE PROGRAM _Sep. 2010 - Dec. 2012_
+National Technical University of Athens Athens, GREECE
 - Diploma Thesis: Hydrological models of rainfall-runoff relationships using Geographic Information Systems (GIS)
 
-### National Technical University of Athens Athens, GREECE
-
-SURVEYING ENGINEERING Sep. 2005 - July 2010
+### SURVEYING ENGINEERING _Sep. 2005 - July 2010_
+National Technical University of Athens Athens, GREECE
 - Specialization in Transportation and Water Resources
 - Diploma Thesis: Implementation of Photogrammetry technology and Programming to measure deformation of slopes under seismic
     conditions
 
 ## Experience
 
-### Lawrence Berkeley National Laboratory. Joint BioEnergy Institute UC Berkeley, CA
-
-POSTDOCTORAL RESEARCHER Dec. 2017 - PRESENT
+### Lawrence Berkeley National Laboratory. Joint BioEnergy Institute UC Berkeley, CA _Dec. 2017 - PRESENT_
+POSTDOCTORAL RESEARCHER
 - Developed a web decision support tool for performing a lifecycle assessment of various biomass to biofuels pathways.
 - Research on the geospatial assessment of current and future biomass to biofuel potential in the US.
 - Research on the optimization of the use of water resources on future energy development pathways
 
-### University of California, Berkeley UC Berkeley, CA
-
-GRADUATE STUDENT RESEARCHER May 2014 - Dec.
+### University of California, Berkeley UC Berkeley, CA _May 2014 - Dec. 2017_
+GRADUATE STUDENT RESEARCHER
 - Developed an optimization web decision support tool for optimally choosing decentralized water reuse facility size depending on
     location using economic-environmental lifecycle analysis and geospatial algorithms. It involved building a web user interface for
     user interaction and connection to a backend server for data analysis.
 - Developed a spatial model to assess the optimal level of infrastructure decentralization for nitrogen management using network
     analysis, machine learning algorithms and geostatistics.
 
-### Calthorpe Analytics Berkeley, CA
-
-DATA ANALYSIS ENGINEER INTERN May 2017 - Aug. 2017
+### Calthorpe Analytics Berkeley, CA _May 2017 - Aug. 2017_
+DATA ANALYSIS ENGINEER INTERN
 - Developed analysis tools to estimate water usage in urban areas using raster image processing and data analysis. The models were
     connected to the main software tool for real time computation in different areas.
 - Performed data analysis and database tasks for allocating demographic, spatial and landuse information to urban parcels to get water
     usage estimation.
 
-### Mapzen San Francisco, CA
-
-DATA ENGINEER INTERN Jun. 2016 - Aug. 2016
+### Mapzen San Francisco, CA _Jun. 2016 - Aug. 2016_
+DATA ENGINEER INTERN
 - Was solely responsible for developing a tool to enhance their backend data portfolio by connecting their database to Wikipedia API
     and promote information sharing between the open platforms
 - Worked on Mapzen’s Vector Tile service to find inconsistencies in the mapping output and providing solutions by editing the core
     backend data
 
 
-### Lawrence Berkeley National Laboratory LBNL, CA
-
-GRADUATE STUDENT RESEARCHER Sep. 2013 - Dec. 2014
-- Developed a GIS tool to assess the life-cycle implications of recycling and second-life applications of electric vehicles batteries using
-    facility location and shortest path algorithms
+### Lawrence Berkeley National Laboratory LBNL, CA _Sep. 2013 - Dec. 2014_
+GRADUATE STUDENT RESEARCHER
+- Developed a GIS tool to assess the life-cycle implications of recycling and second-life applications of electric vehicles batteries using facility location and shortest path algorithms
 
 ## Software Tools Developed
-
-- [Water Reuse Optimization Webtool](https://water-reuse-map.herokuapp.com/) 2017
-- [BioEnergy Facility Siting Webtool](https://biositing-tool-heroku.herokuapp.com/) 2018
+- [Water Reuse Optimization Webtool](https://water-reuse-map.herokuapp.com/) _2017_
+- [BioEnergy Facility Siting Webtool](https://biositing-tool-heroku.herokuapp.com/) _2018_
 
 ## Technical Skills
-
 ### Software Programs
 - Python, Matlab, ArcGIS, QGIS, Postgres, PostGIS, SQL, Javascript, CSS, HTML, Docker
 
