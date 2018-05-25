@@ -82,10 +82,10 @@ GRADUATE STUDENT RESEARCHER
     Sensitivity analysis, State estimation, Optimal control
 
 ## Fellowships & Awards
-- 2018 ITRI-Rosenfeld Postdoctoral Fellowship Water-Energy technologies research Berkeley, U.S.A
-- 2014 Transport and Logistics Awards Optimizing the American College of Athens school buses in GIS Athens, GREECE
-- 2013 Fulbright Fellowship Graduate Studies MSc/PhD Berkeley, U.S.A
-- 2006 DuPont Student Fellowship Research for Undergraduate Program Cincinnati, U.S.A
+- ITRI-Rosenfeld Postdoctoral Fellowship Water-Energy technologies research Berkeley, U.S.A _2018_
+- Transport and Logistics Awards Optimizing the American College of Athens school buses in GIS Athens, GREECE _2014_
+- Fulbright Fellowship Graduate Studies MSc/PhD Berkeley, U.S.A _2013_
+- DuPont Student Fellowship Research for Undergraduate Program Cincinnati, U.S.A _2006_
 
 ## Publications
 
@@ -110,7 +110,6 @@ GRADUATE STUDENT RESEARCHER
 - Kavvada, O.,Hendrickson, T. P.& Scown, C. D. International Symposium on Sustainable Systems and Technology (2014). Life Cycle Impacts and Supply Chain Logistics of Electric Vehicle Battery Recycling. Poster Presentation. Oakland CA
 
 ### Technical Reports
-
 - Kavvada, O. (2017). Spatial Modeling of Decentralized Wastewater Infrastructure: The Case for Water Reuse and Nitrogen Recovery. Ph.D. Dissertation. University of California, Berkeley
 - Kavvada, O. (2015). Environmental and Cost Assessment of ”Off-the-Grid” Water Reuse Design Solutions. Conducted for the California State Water Resources Control Board. University of California, Berkeley
 
@@ -118,7 +117,6 @@ GRADUATE STUDENT RESEARCHER
 
 #### Postdoctoral Researcher Lawrence Berkeley National Lab. Joint BioEnergy Institute. (_2017_)
 Spatial data analysis, technoeconomic analysis, life-cycle assessment
-
 
 #### Data Analytics Engineer Intern Calthorpe Analytics. (_2017_)
 Data Analysis, Spatial Databases and software development. 
