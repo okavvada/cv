@@ -1,9 +1,7 @@
 # Olga Kavvada
 
-
-`Postdoctoral Researcher at Lawrence Berkeley National Laboratory`
-
-`(+1) 510-604-9934 | okavvada@gmail.com | 1831 Woolsey str, Berkeley, CA`
+Postdoctoral Researcher at Lawrence Berkeley National Laboratory
+(+1) 510-604-9934 | okavvada@gmail.com | 1831 Woolsey str, Berkeley, CA
 
 ## Education
 
