@@ -114,28 +114,28 @@ GRADUATE STUDENT RESEARCHER
 
 ## Professional Experience
 
-#### Postdoctoral Researcher Lawrence Berkeley National Lab. Joint BioEnergy Institute. _2017_
+#### Postdoctoral Researcher Lawrence Berkeley National Lab. Joint BioEnergy Institute. _Jan. 2017 - July 2018_
 Spatial data analysis, technoeconomic analysis, life-cycle assessment
 
-#### Data Analytics Engineer Intern Calthorpe Analytics. _2017_
+#### Data Analytics Engineer Intern Calthorpe Analytics. _May 2017 - Aug. 2017_
 Data Analysis, Spatial Databases and software development. 
 
-#### Data Engineer Intern Mapzen. _2016_
+#### Data Engineer Intern Mapzen. _May 2016 - Aug. 2016_
 Data Analysis, Spatial Databases and Vector Tile Service U.S.A
 
-#### Research Intern State of California Water Resources Control Board. _2014_
+#### Research Intern State of California Water Resources Control Board. _Aug. 2014 - Feb. 2015_
 Optimizing non-potable reuse for the Governor’s Water Action Plan
 
-#### Graduate Student Researcher Lawrence Berkeley National Lab. _2015_
+#### Graduate Student Researcher Lawrence Berkeley National Lab. _Jan. 2015 - Aug. 2016_
 CEC Project: Logistics of the recycling and second-life applications of electric vehicles batteries
 
-#### Private Consulting American College of Athens. _2014_
+#### Private Consulting American College of Athens. _Aug. 2013 - Dec. 2016_
 Developed school bus routing and optimization algorithms
 
-#### Professional Engineer GEOSFAIRA LTD. _2013_
+#### Professional Engineer GEOSFAIRA LTD. _Jan. 2012 - Aug. 2013_
 Design of drinking water and sewage networks of Greece Greece
 
-#### Intern EYDAP SA. _2013_
+#### Intern EYDAP SA. _May 2011 - Aug. 2011_
 Developing the GIS database for the National Water Agency Greece
 
 
@@ -157,7 +157,7 @@ ENVIRONMENTAL ENGINEER ACTIVITY LEAD _Jan. 2015 - May 2017_
     Challenge at the Ingenuity Lab
 
 ### National Ocean Sciences Bowl Stanford, CA
-VOLUNTEER - ENVIRONMENTAL ENGINEERING SCIENCE JUDGE _Aug. 2016 - Dec. 2017_
+VOLUNTEER - ENVIRONMENTAL ENGINEERING SCIENCE JUDGE _Nov. 2016_
 - The Northern California regional competition for highly motivated high school students
 
 
