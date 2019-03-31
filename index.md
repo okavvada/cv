@@ -31,7 +31,7 @@ National Technical University of Athens Athens, GREECE
 
 ## Experience
 
-### Lawrence Berkeley National Laboratory. Joint BioEnergy Institute UC Berkeley, CA _Dec. 2017 - PRESENT_
+### Lawrence Berkeley National Laboratory. Joint BioEnergy Institute UC Berkeley, CA _Dec. 2017 - July 2018_
 POSTDOCTORAL RESEARCHER - GEOSPATIAL ANALYST AND SOFTWARE ENGINEER
 - Designed a decision support webtool for optimally planning the locations of bioenergy facilities in California using Python, SQL and PostGIS for the backend and javascript, flask, html and css for the frontend.
 - Developed a webtool for performing lifecycle assessments for various bioenergy crops and biofuels using Python and javascript.
