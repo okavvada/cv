@@ -32,49 +32,54 @@ National Technical University of Athens Athens, GREECE
 ## Experience
 
 ### Lawrence Berkeley National Laboratory. Joint BioEnergy Institute UC Berkeley, CA _Dec. 2017 - PRESENT_
-POSTDOCTORAL RESEARCHER
-- Developed a web decision support tool for performing a lifecycle assessment of various biomass to biofuels pathways.
-- Research on the geospatial assessment of current and future biomass to biofuel potential in the US.
-- Research on the optimization of the use of water resources on future energy development pathways
+POSTDOCTORAL RESEARCHER - GEOSPATIAL ANALYST AND SOFTWARE ENGINEER
+- Designed a *decision support webtool* for optimally planning the locations of bioenergy facilities in California using *Python, SQL* and *PostGIS* for the backend and *javascript, flask, html* and *css* for the frontend.
+- Developed a *webtool* for performing *lifecycle assessments* for various bioenergy crops and biofuels using *Python* and *javascript*.
+- Contributed to developing a *geospatial machine learning algorithm* for evaluating the potential of scaling up biofuel production using *Python, R* and *cloud computing*.
 
 ### University of California, Berkeley UC Berkeley, CA _May 2014 - Dec. 2017_
-GRADUATE STUDENT RESEARCHER
-- Developed an optimization web decision support tool for optimally choosing decentralized water reuse facility size depending on
-    location using economic-environmental lifecycle analysis and geospatial algorithms. It involved building a web user interface for
-    user interaction and connection to a backend server for data analysis.
-- Developed a spatial model to assess the optimal level of infrastructure decentralization for nitrogen management using network
-    analysis, machine learning algorithms and geostatistics.
+GRADUATE STUDENT RESEARCHER - GEOSPATIAL ANALYSIS FOR WATER SYSTEMS ASSESSMENT
+- Designed an *optimization web decision support tool* for optimally siting decentralized water reuse facilities using *Python, Postgres* and *javascript*.
+- Developed a geospatial urban water planning tool to assess the benefits of decentralized infrastructure and nitrogen management using *machine learning algorithms, network analysis, life-cycle analysis* and *geostatistics* implemented in *Python*.
+- Developed an *optimization and optimal control model* for optimally using grid electricity and biogas in a wastewater treatment plant using *Matlab*.
 
 ### Calthorpe Analytics Berkeley, CA _May 2017 - Aug. 2017_
 DATA ANALYSIS ENGINEER INTERN
-- Developed analysis tools to estimate water usage in urban areas using raster image processing and data analysis. The models were
-    connected to the main software tool for real time computation in different areas.
-- Performed data analysis and database tasks for allocating demographic, spatial and landuse information to urban parcels to get water
-    usage estimation.
+- Programmed *analysis models* to estimate water usage in urban areas using *raster image processing* and *data analysis*. The models were integrated into the main pipeline for real time computation.
+- Performed *database tasks* to implement *resource allocation models* for *predicting* water usage in urban parcels.
+- Worked with several *APIs* for *data acquisition* and *data cleaning* to improve the modeling process.
 
 ### Mapzen San Francisco, CA _Jun. 2016 - Aug. 2016_
 DATA ENGINEER INTERN
-- Was solely responsible for developing a tool to enhance their backend data portfolio by connecting their database to Wikipedia API
-    and promote information sharing between the open platforms
-- Worked on Mapzen’s Vector Tile service to find inconsistencies in the mapping output and providing solutions by editing the core
-    backend data
+- Enhanced the *backend data* by developing models for *joining* the company's *database* with various open data *databases* and promoting information sharing between the open platforms.
+- Developed *machine learning algorithms* for data cleaning and processing.
+- Worked for Mapzen's *Vector Tile Service* on identifying inconsistencies in the mapping output and editing the core backend data.
 
 
 ### Lawrence Berkeley National Laboratory LBNL, CA _Sep. 2013 - Dec. 2014_
 GRADUATE STUDENT RESEARCHER
-- Developed a GIS tool to assess the life-cycle implications of recycling and second-life applications of electric vehicles batteries using facility location and shortest path algorithms
+- Developed a *GIS tool* to assess the *life-cycle* implications of recycling and second-life applications of electric vehicles batteries using *facility location* and *shortest path algorithms*.
+
+
+### American College of Athens, Greece _Sep. 2012 - Dec. 2015_
+PRIVATE CONSULTING
+- Developed *geospatial data} and *models} for optimizing school bus routing and scheduling for the entire school fleet using *Python* and *ArcGIS*.
+
+### Geosfaira LTD, Greece _Dec. 2011 - July 2013_
+PROFESSIONAL ENGINEER
+- Consulting services for the design of drinking water and sewage networks of Greece using *ArcGis* and *AutoCAD*.
 
 ## Software Tools Developed
 - [Water Reuse Optimization Webtool](https://water-reuse-map.herokuapp.com/) _2017_
-- [BioEnergy Facility Siting Webtool](https://biositing-tool-heroku.herokuapp.com/) _2018_
+- [BioEnergy Facility Siting Webtool](https://biositing.herokuapp.com/) _2018_
+- [Life Cycle Assessment Webtool](https://lca-model-biofuels.herokuapp.com/) _2018_
 
 ## Technical Skills
 ### Software Programs
-- Python, Matlab, ArcGIS, QGIS, Postgres, PostGIS, SQL, Javascript, CSS, HTML, Docker
+- Python, Matlab, R, ArcGIS, QGIS, Postgres, PostGIS, SQL, Javascript, CSS, HTML, Docker
 
-### Spatial Analysis, GIS Modeling and Machine Learning
-- Data Science, Network analysis algorithms, Spatial databases, Mapping, Geostatistics , Complex networks, Regression analysis, Visu-
-    alization, Clustering, Random forest algorithms, SVM kernels
+### Spatial Analysis and Machine Learning
+- Data Science, Spatial databases, Mapping, Geostatistics, Regression, Visualization, Clustering, Tree algorithms, SVM kernels, Network analysis algorithms
 
 ### System Modeling
 - Lifecycle assessment, Technoeconomic analysis, Optimization, Uncertainty analysis, Monte Carlo simulation, Convex programming,
