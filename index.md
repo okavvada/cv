@@ -33,41 +33,41 @@ National Technical University of Athens Athens, GREECE
 
 ### Lawrence Berkeley National Laboratory. Joint BioEnergy Institute UC Berkeley, CA _Dec. 2017 - PRESENT_
 POSTDOCTORAL RESEARCHER - GEOSPATIAL ANALYST AND SOFTWARE ENGINEER
-- Designed a **decision support webtool** for optimally planning the locations of bioenergy facilities in California using **Python, SQL** and **PostGIS** for the backend and **javascript, flask, html** and **css** for the frontend.
-- Developed a **webtool** for performing **lifecycle assessments** for various bioenergy crops and biofuels using **Python** and **javascript**.
-- Contributed to developing a **geospatial machine learning algorithm** for evaluating the potential of scaling up biofuel production using **Python, R** and **cloud computing**.
+- Designed a decision support webtool for optimally planning the locations of bioenergy facilities in California using Python, SQL and PostGIS for the backend and javascript, flask, html and css for the frontend.
+- Developed a webtool for performing lifecycle assessments for various bioenergy crops and biofuels using Python and javascript.
+- Contributed to developing a geospatial machine learning algorithm for evaluating the potential of scaling up biofuel production using Python, R and cloud computing.
 
 ### University of California, Berkeley UC Berkeley, CA _May 2014 - Dec. 2017_
 GRADUATE STUDENT RESEARCHER - GEOSPATIAL ANALYSIS FOR WATER SYSTEMS ASSESSMENT
-- Designed an **optimization web decision support tool** for optimally siting decentralized water reuse facilities using **Python, Postgres** and **javascript**.
-- Developed a geospatial urban water planning tool to assess the benefits of decentralized infrastructure and nitrogen management using **machine learning algorithms, network analysis, life-cycle analysis** and **geostatistics** implemented in **Python**.
-- Developed an **optimization and optimal control model** for optimally using grid electricity and biogas in a wastewater treatment plant using **Matlab**.
+- Designed an optimization web decision support tool for optimally siting decentralized water reuse facilities using Python, Postgres and javascript.
+- Developed a geospatial urban water planning tool to assess the benefits of decentralized infrastructure and nitrogen management using machine learning algorithms, network analysis, life-cycle analysis and geostatistics implemented in Python.
+- Developed an optimization and optimal control model for optimally using grid electricity and biogas in a wastewater treatment plant using Matlab.
 
 ### Calthorpe Analytics Berkeley, CA _May 2017 - Aug. 2017_
 DATA ANALYSIS ENGINEER INTERN
-- Programmed **analysis models** to estimate water usage in urban areas using **raster image processing** and **data analysis**. The models were integrated into the main pipeline for real time computation.
-- Performed **database tasks** to implement **resource allocation models** for **predicting** water usage in urban parcels.
-- Worked with several **APIs** for **data acquisition** and **data cleaning** to improve the modeling process.
+- Programmed analysis models to estimate water usage in urban areas using raster image processing and data analysis. The models were integrated into the main pipeline for real time computation.
+- Performed database tasks to implement resource allocation models for predicting water usage in urban parcels.
+- Worked with several APIs for data acquisition and data cleaning to improve the modeling process.
 
 ### Mapzen San Francisco, CA _Jun. 2016 - Aug. 2016_
 DATA ENGINEER INTERN
-- Enhanced the **backend data** by developing models for **joining** the company's **database** with various open data **databases** and promoting information sharing between the open platforms.
-- Developed **machine learning algorithms** for data cleaning and processing.
-- Worked for Mapzen's **Vector Tile Service** on identifying inconsistencies in the mapping output and editing the core backend data.
+- Enhanced the backend data by developing models for joining the company's database with various open data databases and promoting information sharing between the open platforms.
+- Developed machine learning algorithms for data cleaning and processing.
+- Worked for Mapzen's Vector Tile Service on identifying inconsistencies in the mapping output and editing the core backend data.
 
 
 ### Lawrence Berkeley National Laboratory LBNL, CA _Sep. 2013 - Dec. 2014_
 GRADUATE STUDENT RESEARCHER
-- Developed a **GIS tool** to assess the **life-cycle** implications of recycling and second-life applications of electric vehicles batteries using **facility location** and **shortest path algorithms**.
+- Developed a GIS tool to assess the life-cycle implications of recycling and second-life applications of electric vehicles batteries using facility location and shortest path algorithms.
 
 
 ### American College of Athens, Greece _Sep. 2012 - Dec. 2015_
 PRIVATE CONSULTING
-- Developed **geospatial data** and **models** for optimizing school bus routing and scheduling for the entire school fleet using **Python** and **ArcGIS**.
+- Developed geospatial data and models for optimizing school bus routing and scheduling for the entire school fleet using Python and ArcGIS.
 
 ### Geosfaira LTD, Greece _Dec. 2011 - July 2013_
 PROFESSIONAL ENGINEER
-- Consulting services for the design of drinking water and sewage networks of Greece using **ArcGis** and **AutoCAD**.
+- Consulting services for the design of drinking water and sewage networks of Greece using ArcGis and AutoCAD.
 
 ## Software Tools Developed
 - [Water Reuse Optimization Webtool](https://water-reuse-map.herokuapp.com/) _2017_
