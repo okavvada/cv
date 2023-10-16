@@ -2,7 +2,7 @@
 
 > Geospatial Data Analyst and Environmental Engineer
 
-*(+1)-510-604-9934* | *okavvada@gmail.com* | *1831 Woolsey str, Berkeley, CA*
+*(+1)-9164725268* | *okavvada@gmail.com* | *431 Offenbach Pl, Sunnyvale, CA*
 
 ## Education
 
@@ -14,11 +14,8 @@ University of California, Berkeley UC Berkeley, CA
 ### MASTER OF SCIENCE (CIVIL AND ENVIRONMENTAL ENGINEERING) _Aug. 2013 - May 2014_
 University of California, Berkeley UC Berkeley, CA
 - ”Energy, Civil Infrastructure and Climate” Program
-
-### CERTIFICATE IN ENGINEERING AND BUSINESS FOR SUSTAINABILITY _Aug. 2013 - May 2014_
-University of California, Berkeley UC Berkeley, CA
-- Multidisciplinary certificate in the intersection of engineering, business, and environmental management
-
+- Certificate in Engineering and business for sustainability
+- 
 ### ENVIRONMENT AND DEVELOPMENT POSTGRADUATE PROGRAM _Sep. 2010 - Dec. 2012_
 National Technical University of Athens Athens, GREECE
 - Diploma Thesis: Hydrological models of rainfall-runoff relationships using Geographic Information Systems (GIS)
@@ -30,6 +27,12 @@ National Technical University of Athens Athens, GREECE
     conditions
 
 ## Experience
+
+### ENGIE Computer Science and AI Lab, France _Aug. 2019 - May 2023
+SENIOR RESEARCH SCIENTIST
+- Product Owner and Lead Software Developer for digital tools to assess energy systems and infrastructure in cities and stakeholder engagement. Utilized a variety of natural language processing (NLP), machine learning and network graph algorithms.
+- Designed and implemented a geospatial decision support webtool for optimally planning the replacement of streetlights in Paris using Python, SQL and PostGIS.
+- Member of the Smart Cities Task Force.
 
 ### Lawrence Berkeley National Laboratory. Joint BioEnergy Institute UC Berkeley, CA _Dec. 2017 - July 2018_
 POSTDOCTORAL RESEARCHER - GEOSPATIAL ANALYST AND SOFTWARE ENGINEER
@@ -76,14 +79,13 @@ PROFESSIONAL ENGINEER
 
 ## Technical Skills
 ### Software Programs
-- Python, Matlab, R, ArcGIS, QGIS, Postgres, PostGIS, SQL, Javascript, CSS, HTML, Docker
+- Python, Matlab, R, ArcGIS, QGIS, Postgres, PostGIS, SQL, Javascript, CSS, HTML, Docker, Git
 
 ### Spatial Analysis and Machine Learning
-- Data Science, Spatial databases, Mapping, Geostatistics, Regression, Visualization, Clustering, Tree algorithms, SVM kernels, Network analysis algorithms
+- Data Science, Machine Learning, Spatial databases, Mapping, Geostatistics, Regression, Visualization, NLP, Clustering, Tree algorithms, SVM kernels, Network analysis algorithms
 
 ### System Modeling
-- Lifecycle assessment, Technoeconomic analysis, Optimization, Uncertainty analysis, Monte Carlo simulation, Convex programming,
-    Sensitivity analysis, State estimation, Optimal control
+- Energy Modeling, Lifecycle assessment, Technoeconomic analysis, Optimization, Uncertainty analysis, Monte Carlo simulation, Convex programming, Sensitivity analysis, Optimal control
 
 ## Fellowships & Awards
 - ITRI-Rosenfeld Postdoctoral Fellowship Water-Energy technologies research Berkeley, U.S.A _2018_
