@@ -1,8 +1,8 @@
 # Olga Kavvada
 
-> Geospatial Data Analyst and Environmental Engineer
+> Geospatial Data Scientist and Environmental Engineer
 
-*(+1)-9164725268* | *okavvada@gmail.com* | *431 Offenbach Pl, Sunnyvale, CA*
+*okavvada@gmail.com* | *Sunnyvale, CA*
 
 ## Education
 
